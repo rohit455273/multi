@@ -8,6 +8,8 @@ ui <- fluidPage(
   ),
   # =========================
 
+  
+   
   wellPanel(
     h2("Sorting example"),
     sliderInput("size", "Data size", min = 5, max = 20, value = 10),
