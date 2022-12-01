@@ -16,5 +16,6 @@ RoxygenNote: 7.1.0
 Imports:
     shiny
 Suggests:
+    covr,
     shinytest,
     testthat

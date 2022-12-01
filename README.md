@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/rstudio/shiny-testing-gha-example/workflows/run-tests/badge.svg)](https://github.com/rstudio/shiny-testing-gha-example/actions)
+[![Codecov test coverage](https://codecov.io/gh/rohit455273/multi/branch/single_platform_snapshot/graph/badge.svg)](https://app.codecov.io/gh/rohit455273/multi?branch=single_platform_snapshot)
 <!-- badges: end -->
 
 ## Overview
