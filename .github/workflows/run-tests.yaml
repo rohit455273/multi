@@ -32,4 +32,4 @@ jobs:
           rsconnect::deployApp()
         s
 hell: Rscript {0}
-Footer
+
