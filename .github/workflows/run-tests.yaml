@@ -30,6 +30,4 @@ jobs:
         run: |
           rsconnect::setAccountInfo(${{ secrets.RSCONNECT_USER }}, ${{ secrets.RSCONNECT_TOKEN }}, ${{ secrets.RSCONNECT_SECRET }})
           rsconnect::deployApp()
-        s
-shell: Rscript {0}
-
+        shell: Rscript {0}
